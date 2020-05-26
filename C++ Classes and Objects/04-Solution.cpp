@@ -1,6 +1,5 @@
-
-// Write a program to print the area and perimeter of a triangle having sides of 3, 4 and 5 units 
-// by creating a class named 'Triangle' with a function to print the area and perimeter.
+// Write a program to print the area and perimeter of a triangle having sides of 3, 4 and 5 units
+// by creating a class named 'Triangle' with the constructor having the three sides as its parameters.
 
 
 #include<iostream>
@@ -11,7 +10,7 @@ using namespace std;
 class Triangle
 {
     public:
-        void print_measures(int a, int b, int c)
+        Triangle(int a, int b, int c)
         {   
             int perimeter = a + b + c;
             float semi_perimeter = (float)perimeter/2;
@@ -25,9 +24,7 @@ class Triangle
 
 int main()
 {
-    Triangle t1;
-
-    t1.print_measures(3, 4, 5);
+    Triangle t1(3, 4, 5);
 
     return 0;
 }
