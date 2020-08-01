@@ -1,5 +1,5 @@
-# Online-Questions-Practise
-Here are some solution to different problems available online in different languages.
+# Online Questions Practise
+<b>Here are some solution to different problems available online in different programming languages.</b><br><br>
+You will find the corresponding links to the given online problems in particular programming language inside each folder and also find the appropriate solutions solved by me.
 
-
-[01-Solution](https://github.com/AtulSharma786/Online-Questions-Practise/blob/master/C%2B%2B%20Classes%20and%20Objects/01-Solution.cpp)
+Happy Coding :)

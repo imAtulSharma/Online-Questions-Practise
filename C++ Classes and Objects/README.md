@@ -1,5 +1,7 @@
-# Online-Questions-Practise
-Here are some solution to different problems available online in different languages.
+# Classes and Objects in C++
+<b>Here are some solution to classes and objects in C++ languages.<br><br></b>
+These problems are provided on the following links.
 
-
-[01-Solution](https://github.com/AtulSharma786/Online-Questions-Practise/blob/master/C%2B%2B%20Classes%20and%20Objects/01-Solution.cpp)
+[https://www.codesdope.com/practice/cpp-classes-and-objects](https://www.codesdope.com/practice/cpp-classes-and-objects/)<br>
+Both Level 1 and Level 2 Solution are here.<br><br>
+Happy Coding :)
